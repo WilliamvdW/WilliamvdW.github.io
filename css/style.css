@@ -1,0 +1,95 @@
+#navbar{
+
+	list-style-type:					none;
+	margin:								0;
+	padding:							0;
+	overflow: 							hidden;
+	background-color:					#00334d;
+	position:							fixed;
+	width:								100%;
+	top:								0;
+	border:								1px solid #00111a;
+
+}
+
+li {
+
+	border-right: 1px solid #00111a;
+    float: left;
+}
+
+li a {
+
+    display: 						block;
+    padding: 						14px 16px;
+    text-align:						center;
+    color:							white;
+    text-decoration: 				none;
+}
+
+li a:hover {
+
+    background-color: 				#002233;
+}
+
+.Wiebenik{
+
+	margin-top:						50px;
+	margin-left:					500px;
+	margin-right:					100px;
+}		
+
+.contact{
+
+	margin-top:						70px;
+	margin-left: 					50;
+}	
+
+.contactjpg{
+
+	float:							right;
+	margin-right:					50px;
+	padding:						5px;
+	background-color:				blue;
+}
+
+.me{
+
+	margin-top:							100px;
+	float:								left;
+	padding:							5px;
+	background-color:					black;
+}
+
+.body1{
+
+	background-color:						#95959b;
+}
+
+.body2{
+
+	background-color:						#9292a3;
+
+}
+
+.body3{
+
+	background-color:						#9595af;
+
+}
+
+.motivatie{
+
+	margin-top:								30px;
+	margin-right:							80px;
+	margin-left:							50px;
+	margin-bottom:							50px;
+}
+
+.techjpg{
+
+	float:									right;
+	margin-top:								120px;
+	margin-left:							20px;
+
+}
