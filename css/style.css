@@ -1,80 +1,84 @@
 #navbar{
 
-	list-style-type:					none;
-	margin:								0;
-	padding:							0;
-	overflow: 							hidden;
-	background-color:					#00334d;
-	position:							fixed;
-	width:								100%;
-	top:								0;
-	border:								1px solid #00111a;
+	list-style-type:						none;
+	margin:									0;
+	padding:								0;
+	overflow: 								hidden;
+	background-color:						#00334d;
+	position:								fixed;
+	width:									100%;
+	top:									0;
+	border:									1px solid #00111a;
 
 }
 
 li {
 
-	border-right: 1px solid #00111a;
-    float: left;
+	border-right: 							1px solid #00111a;
+    float: 									left;
 }
 
 li a {
 
-    display: 						block;
-    padding: 						14px 16px;
-    text-align:						center;
-    color:							white;
-    text-decoration: 				none;
+    display: 								block;
+    padding: 								14px 16px;
+    text-align:								center;
+    color:									white;
+    text-decoration: 						none;
 }
 
 li a:hover {
 
-    background-color: 				#002233;
+    background-color: 						#002233;
 }
 
 .Wiebenik{
 
-	margin-top:						50px;
-	margin-left:					500px;
-	margin-right:					100px;
+	margin-top:								50px;
+	margin-left:							500px;
+	margin-right:							300px;
 }		
 
 .contact{
 
-	margin-top:						70px;
-	margin-left: 					50;
+	margin-top:								70px;
+	margin-left: 							50;
 }	
 
 .contactjpg{
 
-	float:							right;
-	margin-right:					50px;
-	padding:						5px;
-	background-color:				blue;
+	float:									left;
+	margin-left:							35px;
+	padding:								5px;
+	background-color:						lightblue;
+	margin-top:								70px;
 }
 
 .me{
 
-	margin-top:							100px;
-	float:								left;
-	padding:							5px;
-	background-color:					black;
+	margin-top:								100px;
+	float:									left;
+	padding:								5px;
+	background-color:						#19b7aa;
 }
 
 .body1{
 
 	background-color:						#95959b;
+	color:									white;
 }
 
 .body2{
 
 	background-color:						#9292a3;
+	color:									white;
 
 }
 
 .body3{
 
 	background-color:						#9595af;
+	color:									white;
 
 }
 
@@ -90,6 +94,22 @@ li a:hover {
 
 	float:									right;
 	margin-top:								120px;
-	margin-left:							20px;
+	margin-left:							4px;
+	padding:								5px;
+	background-color:						white;
+
+}
+
+.englishWAI{
+
+	margin-left:							500px;
+	text-align:								left;
+	margin-right:							450px;
+
+}
+
+#englishstrong{
+
+	margin-left:							30px;
 
 }
