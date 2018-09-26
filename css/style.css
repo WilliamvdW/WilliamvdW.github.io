@@ -34,16 +34,43 @@ li a:hover {
 
 .Wiebenik{
 
-	margin-top:								50px;
+	margin-top:								20px;
 	margin-left:							500px;
 	margin-right:							300px;
-}		
+	border:									4px;
+	border-style:							outset;
+	border-color:							#013774;
+	padding: 								6px;
+	background-color:						#6DC066;
+	background-image: 						url("./../images/gradient.jpg");
+ 
+}
+
+.englishWAI{
+
+	margin-left:							500px;
+	text-align:								left;
+	margin-right:							450px;
+	border:									4px;
+	border-style:							inset;
+	border-color:							#a7fd90;
+	background-color:						#2ba590;
+	padding:								6px;
+
+
+}	
 
 .contact{
 
 	text-align:								center;
 	margin-top:								70px;
-	margin-left: 							50;
+	margin-left: 							200px;
+	margin-right:							150px;
+	border:									2px;
+	border-width:							7px;
+	border-style:							outset;
+	padding:								10px;
+	background-color:						purple;
 }	
 
 .contactjpg{
@@ -53,7 +80,8 @@ li a:hover {
 	padding:								5px;
 	background-color:						lightblue;
 	margin-top:								70px;
-	border-style:							dashed;
+	border-style:							inset;
+	border-width:							7px;
 }
 
 .me{
@@ -102,15 +130,7 @@ li a:hover {
 
 }
 
-.englishWAI{
-
-	margin-left:							500px;
-	text-align:								left;
-	margin-right:							450px;
-
-}
-
-#englishstrong{
+.strong{
 
 	margin-left:							30px;
 
